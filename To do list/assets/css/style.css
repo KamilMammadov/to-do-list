@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.first{
+    text-align: center;
+    margin: 30px auto;
+}
+
+.first input{
+    outline: none;
+    padding: 10px 20px;
+    border: 1px solid rgb(209, 206, 206);
+    border-radius: 10px;
+}
+
+.first button{
+  border: none;
+  background-color: black;
+  color: white;
+  border-radius: 10px;
+  padding: 10px 20px;
+  transition: .5s;
+}
+
+.first button:hover{
+    background-color: rgb(190, 190, 190);
+    color: black;
+}
+
+.aylo{
+ width: 35%;
+};
